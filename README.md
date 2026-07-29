@@ -1,3 +1,6 @@
+if u want a real executor that is NOT PASTED, LARPED, AI and DETECTED then use hype, Hype is undetected, developed by trusted devs like forlornicus, ad and atreluted, not ai or pasted or larped unlike nebula
+https://discord.gg/GCXtXDMPGm
+
 we love nebula
 ```cpp
 int64_t* GetScriptContext(int64_t Datamodel)
